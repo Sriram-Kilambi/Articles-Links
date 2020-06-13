@@ -6,3 +6,7 @@ Links for all Dev related Articles
 ### Recoil State Management -
 
 https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d2b
+
+## Others
+
+https://www.dataschool.io/how-to-contribute-on-github/
