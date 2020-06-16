@@ -10,3 +10,8 @@ https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d
 ## Others
 
 https://www.dataschool.io/how-to-contribute-on-github/
+
+## Stack Overflow 
+### Misc Questions & Answers
+
+https://stackoverflow.com/questions/53352555/how-to-log-out-all-tabs-in-one-browser-when-one-tab-is-logged-out-in-react-js
