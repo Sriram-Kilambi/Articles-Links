@@ -11,6 +11,8 @@ https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d
 
 https://www.dataschool.io/how-to-contribute-on-github/
 
+https://www.valentinog.com/blog/fake/
+
 ## Stack Overflow 
 ### Misc Questions & Answers
 
