@@ -11,6 +11,10 @@ https://academind.com/learn/react/a-custom-suspense-component/
 
 https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d2b
 
+## Design Related
+
+https://uidesigndaily.com/
+
 ## Others
 
 https://www.dataschool.io/how-to-contribute-on-github/
