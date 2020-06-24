@@ -1,6 +1,12 @@
 # Articles-Links
 Links for all Dev related Articles
 
+## JavaScript
+
+### Before React -
+
+https://blog.logrocket.com/javascript-concepts-before-learning-react/
+
 ## React JS
 
 ### Suspense -
