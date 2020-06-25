@@ -41,6 +41,10 @@ https://academind.com/learn/react/a-custom-suspense-component/
 
 https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d2b
 
+### Others -
+
+https://itnext.io/12-powerful-principles-for-robust-react-apps-industry-secrets-revealed-16a2a0159e11
+
 <====================================================================================>
 
 ## Design Related
