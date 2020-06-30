@@ -67,6 +67,8 @@ https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d
 
 https://itnext.io/12-powerful-principles-for-robust-react-apps-industry-secrets-revealed-16a2a0159e11
 
+https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-54no
+
 <====================================================================================>
 
 ## Design Related
