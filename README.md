@@ -75,6 +75,8 @@ https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-
 
 https://uidesigndaily.com/
 
+https://www.smashingmagazine.com/2011/06/planning-and-implementing-website-navigation/
+
 <====================================================================================>
 
 ## Others
