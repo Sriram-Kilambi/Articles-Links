@@ -73,6 +73,10 @@ https://itnext.io/12-powerful-principles-for-robust-react-apps-industry-secrets-
 
 https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-54no
 
+## Node JS
+
+https://medium.com/gist-for-js/use-of-res-json-vs-res-send-vs-res-end-in-express-b50688c0cddf
+
 <====================================================================================>
 
 ## Design Related
