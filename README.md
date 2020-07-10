@@ -55,6 +55,10 @@ https://blog.logrocket.com/javascript-concepts-before-learning-react/
 
 ## React JS
 
+### Hooks -
+
+https://academind.com/learn/react/useeffect-abort-http-requests/
+
 ### Suspense -
 
 https://academind.com/learn/react/a-custom-suspense-component/
