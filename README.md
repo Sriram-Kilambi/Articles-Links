@@ -73,6 +73,8 @@ https://itnext.io/12-powerful-principles-for-robust-react-apps-industry-secrets-
 
 https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-54no
 
+<====================================================================================>
+
 ## Node JS
 
 https://medium.com/gist-for-js/use-of-res-json-vs-res-send-vs-res-end-in-express-b50688c0cddf
@@ -88,6 +90,8 @@ https://www.smashingmagazine.com/2011/06/planning-and-implementing-website-navig
 <====================================================================================>
 
 ## Others
+
+https://levelup.gitconnected.com/keep-calm-and-start-coding-how-to-fight-coding-anxiety-dee06efd8b9c
 
 https://www.dataschool.io/how-to-contribute-on-github/
 
