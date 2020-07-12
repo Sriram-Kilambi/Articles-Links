@@ -37,6 +37,8 @@ https://www.w3schools.com/css/default.asp
 
 https://www.htmldog.com/guides/css/
 
+https://css-tricks.com/nine-basic-principles-responsive-web-design/
+
 <====================================================================================>
 
 ## JavaScript
