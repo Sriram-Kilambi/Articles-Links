@@ -57,6 +57,10 @@ https://blog.logrocket.com/javascript-concepts-before-learning-react/
 
 ## React JS
 
+### Routing -
+
+https://randycoulman.com/blog/2016/02/02/composing-routes-in-react-router/
+
 ### Hooks -
 
 https://academind.com/learn/react/useeffect-abort-http-requests/
@@ -100,6 +104,12 @@ https://www.dataschool.io/how-to-contribute-on-github/
 https://www.valentinog.com/blog/fake/
 
 https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution-upending-web-development.html
+
+<====================================================================================>
+
+## Interview Related
+
+https://yangshun.github.io/front-end-interview-handbook/
 
 <====================================================================================>
 
