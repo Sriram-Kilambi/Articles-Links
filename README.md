@@ -97,6 +97,8 @@ https://www.smashingmagazine.com/2011/06/planning-and-implementing-website-navig
 
 ## Others
 
+https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+
 https://levelup.gitconnected.com/keep-calm-and-start-coding-how-to-fight-coding-anxiety-dee06efd8b9c
 
 https://www.dataschool.io/how-to-contribute-on-github/
