@@ -49,6 +49,10 @@ https://www.w3schools.com/js/default.asp
 
 https://www.htmldog.com/guides/javascript/
 
+### Callback Functions - 
+
+https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/
+
 ### Before React -
 
 https://blog.logrocket.com/javascript-concepts-before-learning-react/
@@ -84,6 +88,10 @@ https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-
 ## Node JS
 
 https://medium.com/gist-for-js/use-of-res-json-vs-res-send-vs-res-end-in-express-b50688c0cddf
+
+### REST API - 
+
+https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
 
 <====================================================================================>
 
