@@ -4,23 +4,27 @@
 
 https://reactjs.org/
 
-## Routing -
+## Routing
 
 https://randycoulman.com/blog/2016/02/02/composing-routes-in-react-router/
 
-## Hooks -
+## Hooks
 
 https://academind.com/learn/react/useeffect-abort-http-requests/
 
-## Suspense -
+## Suspense
 
 https://academind.com/learn/react/a-custom-suspense-component/
 
-## Recoil State Management -
+## Recoil State Management
 
 https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d2b
 
-## Others -
+## Stack Overflow Questions
+
+https://stackoverflow.com/questions/53352555/how-to-log-out-all-tabs-in-one-browser-when-one-tab-is-logged-out-in-react-js
+
+## Others
 
 https://itnext.io/12-powerful-principles-for-robust-react-apps-industry-secrets-revealed-16a2a0159e11
 
