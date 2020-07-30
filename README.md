@@ -49,6 +49,8 @@ https://www.w3schools.com/js/default.asp
 
 https://www.htmldog.com/guides/javascript/
 
+http://javascript.info/
+
 ### Callback Functions - 
 
 https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/
