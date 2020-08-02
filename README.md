@@ -11,6 +11,8 @@ Links for all Dev related Articles
 
 ## [Node JS](Node-JS.md)
 
+## [Electron JS](Electron-JS.md)
+
 ## [Miscellaneous](Misc.md)
 
 ## [Interview Related](Interview.md)
