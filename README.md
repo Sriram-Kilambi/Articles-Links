@@ -9,6 +9,8 @@ Links for all Dev related Articles
 
 ## [React JS](React-JS.md)
 
+## [Next JS](Next-JS.md)
+
 ## [Node JS](Node-JS.md)
 
 ## [Electron JS](Electron-JS.md)
