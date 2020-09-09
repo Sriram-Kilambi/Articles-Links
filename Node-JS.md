@@ -29,3 +29,6 @@ Create a user named "admin" and use that to connect in mysql-workbench.
 
 CREATE USER 'admin'@'localhost' IDENTIFIED BY 'password';
 GRANT ALL PRIVILEGES ON *.* TO 'admin'@'localhost' WITH GRANT OPTION;
+
+### Changing MySQL User Password
+https://www.cyberciti.biz/faq/mysql-change-user-password/
