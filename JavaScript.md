@@ -22,6 +22,10 @@ http://javascript.info/
 
 https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/
 
+## Async JavaScript
+
+https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/
+
 ## Before Starting React JS 
 
 https://blog.logrocket.com/javascript-concepts-before-learning-react/
