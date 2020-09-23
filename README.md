@@ -13,6 +13,8 @@ Links for all Dev related Articles
 
 ## [Node JS](Node-JS.md)
 
+## [MySQL](MySQL.md)
+
 ## [Electron JS](Electron-JS.md)
 
 ## [Miscellaneous](Misc.md)
