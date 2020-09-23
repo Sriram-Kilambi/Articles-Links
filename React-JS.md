@@ -29,3 +29,5 @@ https://stackoverflow.com/questions/53352555/how-to-log-out-all-tabs-in-one-brow
 https://itnext.io/12-powerful-principles-for-robust-react-apps-industry-secrets-revealed-16a2a0159e11
 
 https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-54no
+
+https://stellarbluetechnologies.com/2017/06/we-dont-need-a-page-refresh-single-page-apps/
