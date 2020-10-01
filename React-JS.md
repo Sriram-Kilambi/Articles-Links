@@ -20,6 +20,10 @@ https://academind.com/learn/react/a-custom-suspense-component/
 
 https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d2b
 
+## Authentication
+
+https://www.techynovice.com/setting-up-JWT-token-refresh-mechanism-with-axios/
+
 ## Stack Overflow Questions
 
 https://stackoverflow.com/questions/53352555/how-to-log-out-all-tabs-in-one-browser-when-one-tab-is-logged-out-in-react-js
