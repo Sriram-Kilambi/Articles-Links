@@ -11,3 +11,7 @@ https://leerob.io/blog/nextjs-authentication
 ## Forms
 
 https://medium.com/the-couch/adding-a-contact-form-to-your-next-js-app-7a1b5f63f27
+
+## Next JS with Tailwind CSS
+
+https://medium.com/better-programming/how-to-set-up-next-js-with-tailwind-css-b93ccd2d4164
