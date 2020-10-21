@@ -38,6 +38,16 @@ https://academind.com/learn/react/a-custom-suspense-component/
 
 https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d2b
 
+## Testing React JS
+
+### Unit & Integration Testing with JEST & Enzyme
+
+https://www.youtube.com/playlist?list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_
+
+### Hooks Testing
+
+https://www.youtube.com/watch?v=9lkZ77m-39I
+
 ## Authentication
 
 https://www.techynovice.com/setting-up-JWT-token-refresh-mechanism-with-axios/
