@@ -58,6 +58,8 @@ https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-
 
 https://stellarbluetechnologies.com/2017/06/we-dont-need-a-page-refresh-single-page-apps/
 
+https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a
+
 ## Framer Motion
 
 https://dev.to/joserfelix/page-transitions-in-react-1c8g
