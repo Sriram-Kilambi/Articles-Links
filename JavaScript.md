@@ -34,6 +34,10 @@ https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-lit
 
 https://blog.logrocket.com/javascript-concepts-before-learning-react/
 
+## Lodash
+
+https://www.blazemeter.com/blog/the-correct-way-to-import-lodash-libraries-a-benchmark/
+
 ## Stack Overflow Questions 
 
 https://stackoverflow.com/questions/26507983/calculating-time-differences-using-moment-js
