@@ -42,3 +42,7 @@ https://www.blazemeter.com/blog/the-correct-way-to-import-lodash-libraries-a-ben
 
 https://stackoverflow.com/questions/26507983/calculating-time-differences-using-moment-js
 
+
+## Typescript
+
+https://www.executeprogram.com/courses/typescript?s=09
