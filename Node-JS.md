@@ -45,3 +45,11 @@ https://docs.mongodb.com/compass/master/
 ### Sending Email with MailTrap 
 
 https://blog.mailtrap.io/sending-emails-with-nodemailer/#Nodemailer_examples
+
+## Sessions 
+
+https://www.quora.com/What-is-a-session-in-a-Web-Application
+
+## Cookies 
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
