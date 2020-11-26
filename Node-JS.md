@@ -41,3 +41,7 @@ https://docs.mongodb.com/manual/
 ### Mongo DB Compass
 
 https://docs.mongodb.com/compass/master/
+
+### Sending Email with MailTrap 
+
+https://blog.mailtrap.io/sending-emails-with-nodemailer/#Nodemailer_examples
