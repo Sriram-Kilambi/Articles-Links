@@ -64,6 +64,8 @@ https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets
 
 https://stackoverflow.com/questions/53352555/how-to-log-out-all-tabs-in-one-browser-when-one-tab-is-logged-out-in-react-js
 
+https://stackoverflow.com/questions/32370994/how-to-pass-props-to-this-props-children
+
 ## Others
 
 https://itnext.io/12-powerful-principles-for-robust-react-apps-industry-secrets-revealed-16a2a0159e11
