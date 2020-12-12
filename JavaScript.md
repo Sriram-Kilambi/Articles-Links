@@ -26,6 +26,8 @@ https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbac
 
 https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/
 
+https://www.taniarascia.com/promise-all-with-async-await/
+
 ## Techniques
 
 https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
