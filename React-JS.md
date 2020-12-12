@@ -97,3 +97,28 @@ https://blog.nodeswat.com/automagic-reload-for-clients-after-deploy-with-angular
 https://medium.com/@aakashbumiya/auto-reload-for-clients-after-deploy-with-angular-7-production-build-bdc45be9b2bd
 https://codeburst.io/long-term-caching-of-static-assets-with-webpack-1ecb139adb95#.oibt9ye3h
 
+## Webpack Related
+
+https://stackoverflow.com/questions/62639542/config-for-webpack-expose-loader-after-upgrade-to-v1-0
+
+https://www.toptal.com/javascript/a-guide-to-managing-webpack-dependencies
+
+https://stackoverflow.com/questions/65186715/how-to-import-something-globally-only-once-in-a-react-project/65186807?noredirect=1#comment115244141_65186807
+
+https://stackoverflow.com/questions/37656592/define-global-variable-with-webpack
+
+https://webpack.js.org/loaders/expose-loader/#using-configuration
+
+https://webpack.js.org/guides/shimming/
+
+## Lodash
+
+https://stackoverflow.com/questions/35250500/correct-way-to-import-lodash
+
+https://stackoverflow.com/questions/45305272/is-there-a-performance-difference-between-import-as-from-lodash-and-import/45305804#45305804
+
+https://medium.com/inside-formstack/friends-dont-let-friends-import-lodash-incorrectly-ac40ca9e3bd5
+
+https://github.com/babel/babel/issues/11396
+
+=> https://itnext.io/lodash-es-vs-individual-lodash-utilities-size-comparison-676f14b07568
