@@ -66,6 +66,10 @@ https://stackoverflow.com/questions/53352555/how-to-log-out-all-tabs-in-one-brow
 
 https://stackoverflow.com/questions/32370994/how-to-pass-props-to-this-props-children
 
+https://github.com/facebook/react/issues/18178#issuecomment-595846312
+
+https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-on-an-unmounted-component
+
 ## Others
 
 https://itnext.io/12-powerful-principles-for-robust-react-apps-industry-secrets-revealed-16a2a0159e11
