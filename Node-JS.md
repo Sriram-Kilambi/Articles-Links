@@ -69,3 +69,14 @@ https://stackoverflow.com/questions/10617954/chrome-doesnt-delete-session-cookie
 https://stackoverflow.com/questions/10617954/chrome-doesnt-delete-session-cookies
 
 https://twitter.com/kpk/status/1142108490850344961?s=20
+
+https://web.dev/samesite-cookie-recipes/
+
+https://web.dev/samesite-cookies-explained/
+
+https://tools.ietf.org/html/draft-ietf-httpbis-rfc6265bis-03#section-4.1
+https://github.com/jshttp/cookie/pull/89/files
+
+## Cors
+
+https://web.dev/cross-origin-resource-sharing/
