@@ -77,6 +77,24 @@ https://web.dev/samesite-cookies-explained/
 https://tools.ietf.org/html/draft-ietf-httpbis-rfc6265bis-03#section-4.1
 https://github.com/jshttp/cookie/pull/89/files
 
+https://stackoverflow.com/questions/58523383/express-not-setting-cookie
+
+https://stackoverflow.com/questions/58228871/cookies-and-samesite-secure-expressjs
+
+https://tools.ietf.org/html/draft-ietf-httpbis-cookie-same-site-00#section-4.1.1
+
+https://stackoverflow.com/questions/50966861/how-to-correct-set-the-cookies-for-a-subdomain-in-jsp/50988268#50988268
+
+https://stackoverflow.com/questions/1134290/cookies-on-localhost-with-explicit-domain/1188145#1188145
+
+https://stackoverflow.com/questions/58228871/cookies-and-samesite-secure-expressjs
+
+https://stackoverflow.com/questions/46288437/set-cookies-for-cross-origin-requests
+
+https://github.com/jshttp/cookie/pull/89/files
+
+https://stackoverflow.com/questions/63171554/samesite-none-not-working-on-chrome-incognito
+
 ## Cors
 
 https://web.dev/cross-origin-resource-sharing/
