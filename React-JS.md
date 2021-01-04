@@ -126,3 +126,25 @@ https://medium.com/inside-formstack/friends-dont-let-friends-import-lodash-incor
 https://github.com/babel/babel/issues/11396
 
 => https://itnext.io/lodash-es-vs-individual-lodash-utilities-size-comparison-676f14b07568
+
+## Tizen & Renative -
+
+https://docs.tizen.org/application/tizen-studio/setup/advanced-configuration/
+
+https://reactnative.dev/docs/building-for-tv
+
+https://developer.tizen.org/ko/forums/web-application-development/could-not-find-target-launch.-please-check-target-connection.?langswitch=ko
+
+https://developer.tizen.org/ko/forums/sdk-ide/sdb-command-not-found?langredirect=1
+
+https://developer.tizen.org/ko/development/tizen-studio/download/installing-tizen-studio?langredirect=1
+
+https://docs.tizen.org/application/tizen-studio/setup/prerequisites/#emulator-requirements
+
+https://developer.tizen.org/ko/forums/sdk-ide/emulator-manager-failed-launch-emulator?langswitch=ko
+
+https://wiki.tizen.org/Tizen_Standalone_Emulator
+
+https://renative.org/docs/platform-tizen#requirements
+
+https://developer.tizen.org/ko/forums/web-application-development/could-not-find-target-launch.-please-check-target-connection.?langswitch=ko
