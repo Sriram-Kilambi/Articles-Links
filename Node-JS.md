@@ -46,6 +46,10 @@ https://docs.mongodb.com/compass/master/
 
 https://blog.mailtrap.io/sending-emails-with-nodemailer/#Nodemailer_examples
 
+### Files -
+
+https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/
+
 ## Sessions 
 
 https://www.quora.com/What-is-a-session-in-a-Web-Application
