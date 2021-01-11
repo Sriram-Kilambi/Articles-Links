@@ -14,6 +14,8 @@ https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
 
 https://www.appcoda.com/restful-api-tutorial-how-to-upload-files-to-server/
 
+https://stackoverflow.com/questions/27072866/how-to-remove-all-files-from-directory-without-removing-directory-in-node-js
+
 ## Others
 
 https://medium.com/gist-for-js/use-of-res-json-vs-res-send-vs-res-end-in-express-b50688c0cddf
