@@ -104,3 +104,7 @@ https://stackoverflow.com/questions/63171554/samesite-none-not-working-on-chrome
 ## Cors
 
 https://web.dev/cross-origin-resource-sharing/
+
+## CRON JOB 
+
+https://www.digitalocean.com/community/tutorials/nodejs-cron-jobs-by-examples
