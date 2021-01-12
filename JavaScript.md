@@ -52,3 +52,15 @@ https://stackoverflow.com/questions/26507983/calculating-time-differences-using-
 ## Typescript
 
 https://www.executeprogram.com/courses/typescript?s=09
+
+## Caching
+
+https://blog.logrocket.com/caching-headers-a-practical-guide-for-frontend-developers/
+
+https://dev.to/flexdinesh/cache-busting-a-react-app-22lk
+
+https://www.mnot.net/cache_docs/
+
+## OWASP
+
+https://owasp.org/www-community/OWASP_Application_Security_FAQ#How_do_I_ensure_that_sensitive_pages_are_not_cached_on_the_user.27s_browser.3F
