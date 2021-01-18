@@ -52,6 +52,10 @@ https://www.youtube.com/playlist?list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_
 
 https://www.youtube.com/watch?v=9lkZ77m-39I
 
+### Three JS
+
+https://github.com/Epiczzor/r3f-template
+
 ## Authentication
 
 https://www.techynovice.com/setting-up-JWT-token-refresh-mechanism-with-axios/
