@@ -26,6 +26,8 @@ https://flaviocopes.com/tags/next/
 
 https://www.youtube.com/watch?v=NSR_Y_rm_zU
 
+https://www.ibrahima-ndaw.com/blog/data-fetching-in-nextjs-using-useswr/#fetching-the-data-with-useswr
+
 ## Misc
 
 https://dev.to/vvo/how-to-solve-window-is-not-defined-errors-in-react-and-next-js-5f97
