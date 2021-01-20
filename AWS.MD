@@ -10,6 +10,8 @@ https://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
 
 https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#getSignedUrl-property
 
+https://docs.aws.amazon.com/AmazonS3/latest/gsg/SigningUpforS3.html
+
 https://docs.aws.amazon.com/AmazonS3/latest/API/sigv4-query-string-auth.html#query-string-auth-v4-signing-example
 
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/using-promises.html
