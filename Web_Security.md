@@ -11,3 +11,5 @@ https://dev.to/_smellycode/csrf-in-action-21n3
 https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.md
 
 https://www.information-age.com/how-to-fix-the-csrf-vulnerability-in-popular-web-frameworks-123484913/
+
+https://medium.com/swlh/how-the-new-chrome-80-cookie-rule-samesite-none-secure-affects-web-development-c06380220ced
