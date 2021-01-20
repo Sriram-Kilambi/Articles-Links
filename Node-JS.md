@@ -44,6 +44,12 @@ https://docs.mongodb.com/manual/
 
 https://docs.mongodb.com/compass/master/
 
+### Mongoose
+
+https://mongoosejs.com/
+
+https://stackoverflow.com/questions/3778428/best-way-to-store-date-time-in-mongodb
+
 ### Sending Email with MailTrap 
 
 https://blog.mailtrap.io/sending-emails-with-nodemailer/#Nodemailer_examples
