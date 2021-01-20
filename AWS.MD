@@ -16,6 +16,8 @@ https://docs.aws.amazon.com/AmazonS3/latest/API/sigv4-query-string-auth.html#que
 
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/using-promises.html
 
+https://docs.aws.amazon.com/general/latest/gr/root-vs-iam.html#aws_tasks-that-require-root
+
 https://stackoverflow.com/questions/27753411/how-do-i-delete-an-object-on-aws-s3-using-javascript
 
 https://stackoverflow.com/questions/57420576/how-to-synchronously-upload-files-to-s3-using-aws-sdk
