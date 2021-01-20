@@ -15,3 +15,5 @@ https://web.dev/
 https://www.w3schools.com/html/default.asp
 
 https://www.htmldog.com/guides/html/
+
+https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/
