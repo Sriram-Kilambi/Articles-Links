@@ -18,6 +18,10 @@ https://www.htmldog.com/guides/javascript/
 
 http://javascript.info/
 
+## Functional Programming
+
+https://github.com/getify/Functional-Light-JS
+
 ## Callback Functions
 
 https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/
