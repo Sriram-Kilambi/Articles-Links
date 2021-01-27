@@ -66,6 +66,17 @@ https://stackoverflow.com/questions/21645023/expressjs-session-cookie-is-not-upd
 
 https://stackoverflow.com/questions/55488629/how-can-i-keep-user-sessions-alive-indefinitely
 
+## Swagger 
+
+Docs-
+https://swagger.io/
+
+https://blog.logrocket.com/documenting-your-express-api-with-swagger/
+
+https://dev.to/kabartolo/how-to-document-an-express-api-with-swagger-ui-and-jsdoc-50do
+
+https://levelup.gitconnected.com/swagger-time-to-document-that-express-api-you-built-9b8faaeae563
+
 ## Cookies 
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
