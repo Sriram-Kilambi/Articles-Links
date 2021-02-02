@@ -16,7 +16,29 @@ https://www.appcoda.com/restful-api-tutorial-how-to-upload-files-to-server/
 
 https://stackoverflow.com/questions/27072866/how-to-remove-all-files-from-directory-without-removing-directory-in-node-js
 
+## Logging 
+
+https://www.loggly.com/blog/node-js-libraries-make-sophisticated-logging-simpler/
+
+https://strongloop.com/strongblog/compare-node-js-logging-winston-bunyan/
+
+https://github.com/trentm/node-bunyan#log-method-api
+
+https://stackoverflow.com/questions/27885425/express-middleware-before-response-is-carried-out-to-client
+
+https://medium.com/@bansalnagesh/better-logging-with-bunyan-eff940d29956
+
+https://medium.com/@tobydigz/logging-in-a-node-express-app-with-morgan-and-bunyan-30d9bf2c07a
+
+https://github.com/tobydigz/node_js_logging_example/blob/master/app.js
+
+https://stackify.com/winston-logging-tutorial/
+
+https://stackify.com/what-is-structured-logging-and-why-developers-need-it/
+
 ## Others
+
+https://linuxize.com/post/how-to-use-linux-screen/
 
 https://medium.com/gist-for-js/use-of-res-json-vs-res-send-vs-res-end-in-express-b50688c0cddf
 
