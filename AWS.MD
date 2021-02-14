@@ -1,5 +1,11 @@
 # Amazon Web Services
 
+https://aws.amazon.com/what-is-cloud-computing/
+
+## Cloud Watch
+
+https://www.rapidspike.com/blog/how-to-send-log-files-to-aws-cloudwatch-ubuntu/
+
 ## S3
 
 https://aws.amazon.com/getting-started/hands-on/backup-files-to-amazon-s3/
@@ -25,3 +31,7 @@ https://stackoverflow.com/questions/57420576/how-to-synchronously-upload-files-t
 https://stackabuse.com/uploading-files-to-aws-s3-with-node-js/
 
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/s3-example-creating-buckets.html#s3-example-creating-buckets-upload-file
+
+## ELK STACK
+
+https://logz.io/learn/complete-guide-elk-stack
