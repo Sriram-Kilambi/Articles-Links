@@ -40,6 +40,12 @@ https://stackify.com/winston-logging-tutorial/
 
 https://stackify.com/what-is-structured-logging-and-why-developers-need-it/
 
+https://nodejs.org/es/blog/module/service-logging-in-json-with-bunyan/
+
+https://medium.com/yom-ai/rest-api-with-node-js-and-elasticsearch-1368cf9df02a
+
+https://stackoverflow.com/questions/24373298/log-a-request-with-bunyan
+
 ## Others
 
 https://linuxize.com/post/how-to-use-linux-screen/
@@ -104,6 +110,8 @@ https://dev.to/kabartolo/how-to-document-an-express-api-with-swagger-ui-and-jsdo
 https://levelup.gitconnected.com/swagger-time-to-document-that-express-api-you-built-9b8faaeae563
 
 ## Cookies 
+
+https://github.com/expressjs/express/issues/691
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
 
