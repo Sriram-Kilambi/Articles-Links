@@ -109,6 +109,8 @@ https://dev.to/kabartolo/how-to-document-an-express-api-with-swagger-ui-and-jsdo
 
 https://levelup.gitconnected.com/swagger-time-to-document-that-express-api-you-built-9b8faaeae563
 
+https://levelup.gitconnected.com/swagger-time-to-document-that-express-api-you-built-9b8faaeae563
+
 ## Cookies 
 
 https://github.com/expressjs/express/issues/691
