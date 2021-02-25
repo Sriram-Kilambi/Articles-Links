@@ -18,6 +18,8 @@ https://stackoverflow.com/questions/27072866/how-to-remove-all-files-from-direct
 
 ## Logging 
 
+https://stackify.com/node-js-logging/
+
 https://dev.to/deleteman123/logging-at-scale-done-right-3m0e
 
 https://stackoverflow.com/questions/24502190/how-to-to-log-js-errors-from-a-client-into-kibana
