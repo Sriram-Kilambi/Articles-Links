@@ -44,6 +44,10 @@ https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#getSignedUrl-pro
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/managing-acls.html
 
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingAWSSDK.html
+
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html
+
 ## ELK STACK
 
 https://logz.io/learn/complete-guide-elk-stack
