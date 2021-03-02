@@ -32,6 +32,18 @@ https://stackabuse.com/uploading-files-to-aws-s3-with-node-js/
 
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/s3-example-creating-buckets.html#s3-example-creating-buckets-upload-file
 
+### S3 Error - Authorization Mechanism
+
+https://stackoverflow.com/questions/26533245/the-authorization-mechanism-you-have-provided-is-not-supported-please-use-aws4/26538266#26538266
+
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/UsingAWSSDK.html#specify-signature-version
+
+https://aws.amazon.com/premiumsupport/knowledge-center/s3-access-denied-error/
+
+https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#getSignedUrl-property
+
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/managing-acls.html
+
 ## ELK STACK
 
 https://logz.io/learn/complete-guide-elk-stack
