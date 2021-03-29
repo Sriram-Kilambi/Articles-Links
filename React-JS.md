@@ -97,6 +97,8 @@ https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-progra
 
 ## Deployment -
 
+https://www.youtube.com/watch?v=s8ZBi2u85pc
+
 https://medium.com/how-to-react/auto-deploy-your-build-folder-to-the-server-in-reactjs-4d095af3b33b
 
 ## Automatic Reload for Prod Clients - 
