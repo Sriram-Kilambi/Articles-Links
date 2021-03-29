@@ -113,6 +113,8 @@ https://levelup.gitconnected.com/swagger-time-to-document-that-express-api-you-b
 
 https://levelup.gitconnected.com/swagger-time-to-document-that-express-api-you-built-9b8faaeae563
 
+https://www.youtube.com/watch?v=S8kmHtQeflo
+
 ## Cookies 
 
 https://github.com/expressjs/express/issues/691
