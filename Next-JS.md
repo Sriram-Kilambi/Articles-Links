@@ -31,3 +31,15 @@ https://www.ibrahima-ndaw.com/blog/data-fetching-in-nextjs-using-useswr/#fetchin
 ## Misc
 
 https://dev.to/vvo/how-to-solve-window-is-not-defined-errors-in-react-and-next-js-5f97
+
+## Youtube Tutorials
+
+https://www.youtube.com/watch?v=VAEyelMtWp8
+
+https://www.youtube.com/watch?v=NSR_Y_rm_zU
+
+https://www.youtube.com/watch?v=tt3PUvhOVzo
+
+https://www.youtube.com/watch?v=EJVGzyWSCBE
+
+https://www.youtube.com/watch?v=mTz0GXj8NN0
