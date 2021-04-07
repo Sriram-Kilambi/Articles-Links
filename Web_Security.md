@@ -1,5 +1,7 @@
 https://codahale.com/a-lesson-in-timing-attacks/
 
+https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/
+
 ## CSRF
 
 https://www.acunetix.com/websitesecurity/csrf-attacks/
@@ -13,3 +15,11 @@ https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Cross-Site_Req
 https://www.information-age.com/how-to-fix-the-csrf-vulnerability-in-popular-web-frameworks-123484913/
 
 https://medium.com/swlh/how-the-new-chrome-80-cookie-rule-samesite-none-secure-affects-web-development-c06380220ced
+
+https://www.netsparker.com/blog/web-security/protecting-website-using-anti-csrf-token/
+
+https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html
+
+https://www.information-age.com/how-to-fix-the-csrf-vulnerability-in-popular-web-frameworks-123484913/
+
+https://medium.com/@dbillinghamuk/csrf-setup-for-expressjs-and-ssr-react-redux-app-348e65261009
