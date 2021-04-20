@@ -23,3 +23,7 @@ https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Preven
 https://www.information-age.com/how-to-fix-the-csrf-vulnerability-in-popular-web-frameworks-123484913/
 
 https://medium.com/@dbillinghamuk/csrf-setup-for-expressjs-and-ssr-react-redux-app-348e65261009
+
+https://security.stackexchange.com/questions/22903/why-refresh-csrf-token-per-form-request
+
+https://www.geeksforgeeks.org/implementing-csurf-middleware-in-node-js/
