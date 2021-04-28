@@ -16,6 +16,34 @@ https://www.appcoda.com/restful-api-tutorial-how-to-upload-files-to-server/
 
 https://stackoverflow.com/questions/27072866/how-to-remove-all-files-from-directory-without-removing-directory-in-node-js
 
+## SSL
+
+https://hostadvice.com/how-to/how-to-install-a-self-signed-ssl-certificate-for-apache-on-ubuntu-18-04-server/
+
+https://www.freecodecamp.org/news/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec/
+
+https://github.com/dakshshah96/local-cert-generator/
+
+https://devcenter.heroku.com/articles/ssl-certificate-self
+
+https://www.kevinleary.net/self-signed-trusted-certificates-node-js-express-js/
+
+https://blog.praveen.science/securing-your-localhost/
+
+https://groups.google.com/a/chromium.org/g/security-dev/c/IGT2fLJrAeo?pli=1
+
+https://support.dnsimple.com/articles/what-is-ssl-root-certificate/
+
+https://reactpaths.com/how-to-get-https-working-in-localhost-development-environment-f17de34af046
+
+https://serverfault.com/questions/1021663/creating-csr-for-ssl-request-on-ubuntu-gives-error
+
+https://sectigostore.com/blog/port-443-everything-you-need-to-know-about-https-443/
+
+https://stackoverflow.com/questions/7580508/getting-chrome-to-accept-self-signed-localhost-certificate
+
+https://unix.stackexchange.com/questions/90450/adding-a-self-signed-certificate-to-the-trusted-list
+
 ## Logging 
 
 https://blog.risingstack.com/node-js-logging-tutorial/
