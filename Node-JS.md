@@ -16,6 +16,14 @@ https://www.appcoda.com/restful-api-tutorial-how-to-upload-files-to-server/
 
 https://stackoverflow.com/questions/27072866/how-to-remove-all-files-from-directory-without-removing-directory-in-node-js
 
+## Node Architecture & Best Practices
+
+https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/#rule1correctlyorganizingourfilesintofolders
+
+https://softwareontheroad.com/ideal-nodejs-project-structure/#folder
+
+https://dev.to/eaetukudo/understanding-mvc-pattern-in-nodejs-2bdn
+
 ## SSL
 
 https://hostadvice.com/how-to/how-to-install-a-self-signed-ssl-certificate-for-apache-on-ubuntu-18-04-server/
