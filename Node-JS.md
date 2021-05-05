@@ -205,3 +205,7 @@ https://web.dev/cross-origin-resource-sharing/
 ## CRON JOB 
 
 https://www.digitalocean.com/community/tutorials/nodejs-cron-jobs-by-examples
+
+## Documenting APIs
+
+https://idratherbewriting.com/learnapidoc/docapis_introtoapis.html
