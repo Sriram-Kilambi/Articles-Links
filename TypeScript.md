@@ -6,6 +6,8 @@ https://www.typescriptlang.org/docs/
 
 https://www.typescriptlang.org/docs/handbook/intro.html
 
+https://www.executeprogram.com/courses/typescript?s=09
+
 ## TypeScript with React
 
 https://react-typescript-cheatsheet.netlify.app/
