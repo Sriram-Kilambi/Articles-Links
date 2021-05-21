@@ -51,3 +51,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.ht
 ## ELK STACK
 
 https://logz.io/learn/complete-guide-elk-stack
+
+## Serverless
+
+https://www.serverless.com/blog/node-rest-api-with-serverless-lambda-and-dynamodb
