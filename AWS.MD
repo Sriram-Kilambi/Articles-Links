@@ -55,3 +55,7 @@ https://logz.io/learn/complete-guide-elk-stack
 ## Serverless
 
 https://www.serverless.com/blog/node-rest-api-with-serverless-lambda-and-dynamodb
+
+## S3 
+
+https://www.trendmicro.com/en_in/devops/21/d/how-to-scan-and-encrypt-objects-in-s3-buckets.html
