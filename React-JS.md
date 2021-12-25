@@ -26,6 +26,8 @@ https://blog.bitsrc.io/things-you-should-know-when-fetching-data-for-react-compo
 
 ## Hooks
 
+https://medium.com/better-programming/7-awesome-react-hooks-38b81f3cbd0a
+
 https://academind.com/learn/react/useeffect-abort-http-requests/
 
 https://www.sitepoint.com/replace-redux-react-hooks-context-api/
@@ -174,7 +176,11 @@ https://kentcdodds.com/blog/?q=context
 
 https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4
 
+https://dev.to/divyajyotiuk/credit-card-number-check-4cf8
+
 ## Framer Motion
+
+https://www.framer.com/motion/
 
 https://dev.to/joserfelix/page-transitions-in-react-1c8g
 
