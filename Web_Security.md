@@ -27,3 +27,5 @@ https://medium.com/@dbillinghamuk/csrf-setup-for-expressjs-and-ssr-react-redux-a
 https://security.stackexchange.com/questions/22903/why-refresh-csrf-token-per-form-request
 
 https://www.geeksforgeeks.org/implementing-csurf-middleware-in-node-js/
+
+https://www.linkedin.com/posts/shoaibbhimani_javascript-security-frontenddevelopers-activity-6708282075436371968-xv1U
