@@ -104,6 +104,8 @@ https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-o
 
 ## Others
 
+https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx
+
 https://www.youtube.com/watch?v=Tn6-PIqc4UM
 
 https://twitter.com/dvnabbott/status/1305611387746410499?s=09
