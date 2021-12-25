@@ -38,6 +38,8 @@ https://dev.to/vvo/how-to-solve-window-is-not-defined-errors-in-react-and-next-j
 
 https://blog.logrocket.com/theming-in-next-js-with-styled-components-and-usedarkmode/
 
+https://www.youtube.com/watch?v=PsDz3kpp354
+
 ## Youtube Tutorials
 
 https://www.youtube.com/watch?v=VAEyelMtWp8
