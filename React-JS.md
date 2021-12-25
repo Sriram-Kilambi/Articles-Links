@@ -14,6 +14,10 @@ https://reactjs.org/
 
 https://randycoulman.com/blog/2016/02/02/composing-routes-in-react-router/
 
+## Forms
+
+https://www.youtube.com/watch?v=kYyaJyTLjpk
+
 ## Data Fetching
 
 https://blog.bitsrc.io/things-you-should-know-when-fetching-data-for-react-components-39d61602feda
@@ -60,6 +64,8 @@ https://www.youtube.com/watch?v=9lkZ77m-39I
 
 https://github.com/Epiczzor/r3f-template
 
+https://www.youtube.com/watch?v=ZnXKmODEFHA
+
 ## Authentication
 
 https://www.techynovice.com/setting-up-JWT-token-refresh-mechanism-with-axios/
@@ -97,6 +103,8 @@ https://github.com/damiangreen/use-trace-update/blob/master/src/use-trace-update
 https://dmitripavlutin.com/react-throttle-debounce/
 
 https://dev.to/cubejs/building-map-based-data-visualizations-with-mapbox-react-and-cube-js-4poo
+
+https://link.medium.com/LunE6N2Ugdb
 
 ## Framer Motion
 
@@ -153,6 +161,8 @@ https://medium.com/inside-formstack/friends-dont-let-friends-import-lodash-incor
 https://github.com/babel/babel/issues/11396
 
 => https://itnext.io/lodash-es-vs-individual-lodash-utilities-size-comparison-676f14b07568
+
+https://github.com/GoogleChromeLabs/webpack-libs-optimizations#lodash-es
 
 ## Tizen & Renative -
 
