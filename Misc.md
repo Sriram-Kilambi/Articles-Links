@@ -4,6 +4,10 @@ https://insights.stackoverflow.com/survey/2020
 
 https://medium.com/voobans-tech-stories/10-lodash-functions-everyone-should-know-334b372aec5d
 
+https://dev.to/areknawo/the-magic-behind-javascript-syntax-shortcuts-25jj
+
+https://michalzalecki.com/optimize-react-build-for-production-with-webpack/
+
 https://levelup.gitconnected.com/@janvidar
 
 https://youtu.be/ALRzs6ay7OU
@@ -11,6 +15,8 @@ https://youtu.be/ALRzs6ay7OU
 https://www.gitmemory.com/issue/gregnb/mui-datatables/953/534289311
 
 https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki
+
+https://levelup.gitconnected.com/asynchronous-javascript-part-3-85390632dd1a
 
 https://medium.com/@pmzubar/why-json-parse-json-stringify-is-a-bad-practice-to-clone-an-object-in-javascript-b28ac5e36521
 
