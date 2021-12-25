@@ -13,3 +13,5 @@ https://github.com/NodeRedis/node-redis/issues/1219
 https://codewithhugo.com/setting-up-express-and-redis-with-docker-compose/
 
 https://github.com/HugoDF/express-redis-docker/blob/master/docker-compose.yml
+
+https://youtu.be/gAkwW2tuIqE
