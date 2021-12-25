@@ -42,6 +42,12 @@ https://www.youtube.com/watch?v=ZYb_ZU8LNxs
 
 https://www.youtube.com/watch?v=vKJpN5FAeF4
 
+https://youtu.be/_8gHHBlbziw
+
+## Events
+
+https://www.youtube.com/watch?v=XF1_MlZ5l6M
+
 ## Destructuring
 
 https://www.youtube.com/watch?v=UgEaJBz3bjY
