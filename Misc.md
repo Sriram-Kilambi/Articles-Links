@@ -6,6 +6,8 @@ https://levelup.gitconnected.com/keep-calm-and-start-coding-how-to-fight-coding-
 
 https://www.dataschool.io/how-to-contribute-on-github/
 
+https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
+
 https://www.valentinog.com/blog/fake/
 
 https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution-upending-web-development.html
