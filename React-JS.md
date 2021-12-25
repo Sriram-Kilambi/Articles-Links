@@ -99,6 +99,8 @@ https://dmitripavlutin.com/react-throttle-debounce/
 
 https://dev.to/joserfelix/page-transitions-in-react-1c8g
 
+https://dev.to/teo_garcia/understanding-rendering-in-react-i5i
+
 ## Functional Reactive Programming
 
 https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/
