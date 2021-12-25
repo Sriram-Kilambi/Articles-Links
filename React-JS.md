@@ -44,6 +44,8 @@ https://hswolff.com/blog/level-up-usereducer-with-immer/
 
 https://hswolff.com/blog/how-to-usecontext-with-usereducer
 
+https://medium.com/trabe/react-usereducer-hook-2b1331bb768
+
 ## useMemo Hook
 
 https://twitter.com/dan_abramov/status/1055689046117105664
