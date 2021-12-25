@@ -86,6 +86,8 @@ https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-o
 
 ## Others
 
+https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html
+
 https://www.geeksforgeeks.org/difference-between-react-component-and-react-purecomponent/
 
 https://itnext.io/12-powerful-principles-for-robust-react-apps-industry-secrets-revealed-16a2a0159e11
