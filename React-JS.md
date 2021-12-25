@@ -40,6 +40,10 @@ https://www.sitepoint.com/replace-redux-react-hooks-context-api/
 
 https://stackoverflow.com/questions/61418181/react-usereducer-and-context-how-to-provide-state-selectors
 
+https://www.taniarascia.com/using-context-api-in-react/
+
+https://dev.to/paulstumpe/react-hook-rules-and-stuff-3dlf
+
 ### useReducer Hook
 
 https://alligator.io/react/usereducer/
@@ -128,11 +132,17 @@ https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-o
 
 ## Others
 
+https://coursevania.com/complete-react-developer-in-2020-redux-hooks-graphql/
+
 https://twitter.com/dan_abramov/status/1255229440860262400?s=09
 
 https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx
 
 https://blogreact.com/react-conditional-rendering/
+
+https://blogreact.com/reusable-components-in-react/
+
+https://buttercms.com/blog/react-concurrent-mode-the-future-of-web-apps
 
 https://blogreact.com/react-setup-webpack-babel-2020/
 
