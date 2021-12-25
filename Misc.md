@@ -40,6 +40,8 @@ https://tsh.io/blog/basics-of-microservices-pros-and-cons/
 
 https://www.youtube.com/watch?v=5IG4UmULyoA
 
+https://flaviocopes.com/npm-packages-local-global/
+
 https://css-tricks.com/a-primer-on-the-different-types-of-browser-storage/
 
 https://www.youtube.com/watch?v=zQyrwxMPm88
@@ -61,3 +63,5 @@ https://flaviocopes.com/requestanimationframe/
 https://developers.google.com/web/resources/contributors/jakearchibald
 
 https://codesandbox.io/s/p5zf9
+
+https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/amp/
