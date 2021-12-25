@@ -78,6 +78,8 @@ https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d
 
 ## Testing React JS
 
+https://hackernoon.com/testing-react-apps-with-react-testing-library-a-how-to-guide-md4i32kb
+
 https://css-tricks.com/react-integration-testing-greater-coverage-fewer-tests/
 
 ### Unit & Integration Testing with JEST & Enzyme
@@ -163,6 +165,8 @@ https://www.react-spring.io/docs/hooks/examples
 https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/
 
 https://medium.com/better-programming/3-react-component-patterns-every-beginner-to-intermediate-react-developers-need-to-know-f6e3155a74e3
+
+https://dev.to/fifo/react-jitsi-serverless-twilio-sendgrid-po4
 
 https://softwareengineeringdaily.com/2020/12/11/facebook-react-with-dan-abramov-repeat/
 
