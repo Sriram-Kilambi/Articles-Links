@@ -53,3 +53,5 @@ https://pragmaticwebsecurity.com/files/cheatsheets/reactxss.pdf
 https://www.npmjs.com/package/dompurify
 
 https://owasp.org/www-community/OWASP_Validation_Regex_Repository
+
+https://youtu.be/I6ypD7qv3Z8
