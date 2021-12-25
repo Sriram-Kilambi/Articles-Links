@@ -24,6 +24,8 @@ https://blog.logrocket.com/next-js-commerce-an-overview-and-tutorial/
 
 ## SWR
 
+https://www.smashingmagazine.com/2020/06/introduction-swr-react-hooks-remote-data-fetching/
+
 https://swr.vercel.app/
 
 https://www.mikealche.com/software-development/how-to-implement-authentication-in-next-js-without-third-party-libraries
