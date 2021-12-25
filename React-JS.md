@@ -91,9 +91,12 @@ https://stellarbluetechnologies.com/2017/06/we-dont-need-a-page-refresh-single-p
 https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a
 
 https://stackoverflow.com/questions/41004631/trace-why-a-react-component-is-re-rendering 
+
 https://github.com/damiangreen/use-trace-update/blob/master/src/use-trace-update.ts
 
 https://dmitripavlutin.com/react-throttle-debounce/
+
+https://dev.to/cubejs/building-map-based-data-visualizations-with-mapbox-react-and-cube-js-4poo
 
 ## Framer Motion
 
@@ -114,7 +117,9 @@ https://medium.com/how-to-react/auto-deploy-your-build-folder-to-the-server-in-r
 ## Automatic Reload for Prod Clients - 
 
 https://blog.nodeswat.com/automagic-reload-for-clients-after-deploy-with-angular-4-8440c9fdd96c
+
 https://medium.com/@aakashbumiya/auto-reload-for-clients-after-deploy-with-angular-7-production-build-bdc45be9b2bd
+
 https://codeburst.io/long-term-caching-of-static-assets-with-webpack-1ecb139adb95#.oibt9ye3h
 
 ## Webpack Related
