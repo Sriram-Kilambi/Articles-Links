@@ -26,6 +26,10 @@ https://blog.bitsrc.io/react-hook-form-vs-formik-form-builder-library-for-react-
 
 https://blog.bitsrc.io/things-you-should-know-when-fetching-data-for-react-components-39d61602feda
 
+## Drag & Drop
+
+https://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd
+
 ## Hooks
 
 https://medium.com/better-programming/7-awesome-react-hooks-38b81f3cbd0a
