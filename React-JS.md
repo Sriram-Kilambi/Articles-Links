@@ -76,6 +76,8 @@ https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-o
 
 ## Others
 
+https://www.geeksforgeeks.org/difference-between-react-component-and-react-purecomponent/
+
 https://itnext.io/12-powerful-principles-for-robust-react-apps-industry-secrets-revealed-16a2a0159e11
 
 https://dev.to/iyashsoni/building-web-extensions-with-reactjs-from-0-to-publish-54no
@@ -86,6 +88,8 @@ https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a
 
 https://stackoverflow.com/questions/41004631/trace-why-a-react-component-is-re-rendering 
 https://github.com/damiangreen/use-trace-update/blob/master/src/use-trace-update.ts
+
+https://dmitripavlutin.com/react-throttle-debounce/
 
 ## Framer Motion
 
