@@ -88,6 +88,12 @@ https://youtu.be/6tpOsLAhhIA
 
 https://dmitripavlutin.com/object-is-vs-strict-equality-operator/
 
+https://youtu.be/7-1VZ2wF8pw
+
+https://www.youtube.com/watch?v=OvNIIgysD-s
+
+http://hackernoon.com/understanding-currying-closures-and-coupling-in-javascript-pg3x3y6z
+
 ## Cheat sheets
 
 https://cheatography.com/davechild/cheat-sheets/javascript/
