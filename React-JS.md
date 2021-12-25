@@ -18,6 +18,8 @@ https://randycoulman.com/blog/2016/02/02/composing-routes-in-react-router/
 
 https://www.youtube.com/watch?v=kYyaJyTLjpk
 
+https://github.com/react-hook-form/react-hook-form/tree/master/examples
+
 ## Data Fetching
 
 https://blog.bitsrc.io/things-you-should-know-when-fetching-data-for-react-components-39d61602feda
@@ -89,6 +91,12 @@ https://github.com/facebook/react/issues/18178#issuecomment-595846312
 https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-on-an-unmounted-component
 
 ## Others
+
+https://www.youtube.com/watch?v=Tn6-PIqc4UM
+
+https://twitter.com/dvnabbott/status/1305611387746410499?s=09
+
+https://www.youtube.com/playlist?list=PLnQIVBzL8WX4aJtfFS4-QJedMpxKppUpY&mc_cid=9f777d1d71&mc_eid=1932adb0d8
 
 https://reactjs.org/static/bb4b10114882a50090b8ff61b3c4d0fd/31868/react_17_delegation.png
 
