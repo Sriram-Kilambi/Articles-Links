@@ -44,6 +44,8 @@ https://www.taniarascia.com/using-context-api-in-react/
 
 https://dev.to/paulstumpe/react-hook-rules-and-stuff-3dlf
 
+https://youtu.be/pm0j95hmAgE
+
 ### useReducer Hook
 
 https://alligator.io/react/usereducer/
@@ -210,6 +212,8 @@ https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-compon
 
 https://www.youtube.com/watch?v=gnkrDse9QKc&amp;t=253s
 
+https://mui-treasury.com/components/tabs
+
 https://reactresources.com/articles
 
 https://overreacted.io/writing-resilient-components/?s=09
@@ -277,6 +281,12 @@ https://www.telerik.com/blogs/five-questions-every-unit-test-must-answer-react-w
 ## Boilerplates
 
 https://blog.logrocket.com/react-boilerplates-for-2021/
+
+https://link.medium.com/i3HdhvY7Y3
+
+https://www.freecodecamp.org/news/part-1-react-app-from-scratch-using-webpack-4-562b1d231e75/
+
+https://developerhandbook.com/webpack/webpack-4-from-absolute-scratch/
 
 ## Lodash
 
