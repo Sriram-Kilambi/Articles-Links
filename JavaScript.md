@@ -90,6 +90,10 @@ https://dmitripavlutin.com/object-is-vs-strict-equality-operator/
 
 https://youtu.be/7-1VZ2wF8pw
 
+https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+
+https://douara.me/javascript-fundamentals-prototypal-inheritance/
+
 https://www.youtube.com/watch?v=OvNIIgysD-s
 
 http://hackernoon.com/understanding-currying-closures-and-coupling-in-javascript-pg3x3y6z
