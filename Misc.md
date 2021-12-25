@@ -8,6 +8,20 @@ https://dev.to/areknawo/the-magic-behind-javascript-syntax-shortcuts-25jj
 
 https://michalzalecki.com/optimize-react-build-for-production-with-webpack/
 
+https://www.youtube.com/watch?v=I-yEpHSelpg
+
+https://youtu.be/Gc0msPEmGjA
+
+https://youtu.be/L8CDt1J3DAw
+
+https://ionicframework.com/blog/introducing-ionic-4-ionic-for-everyone/
+
+https://www.sitepoint.com/lodash-features-replace-es6/
+
+https://github.com/bradtraversy/modern_js_udemy_projects
+
+https://www.youtube.com/watch?v=MpGLUVbqoYQ
+
 https://levelup.gitconnected.com/@janvidar
 
 https://youtu.be/ALRzs6ay7OU
