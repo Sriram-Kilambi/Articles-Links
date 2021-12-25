@@ -48,6 +48,10 @@ https://youtu.be/_8gHHBlbziw
 
 https://www.youtube.com/watch?v=XF1_MlZ5l6M
 
+## Closures 
+
+https://blog.logrocket.com/a-closer-look-at-javascript-closures-higher-order-functions-and-currying/
+
 ## Destructuring
 
 https://www.youtube.com/watch?v=UgEaJBz3bjY
