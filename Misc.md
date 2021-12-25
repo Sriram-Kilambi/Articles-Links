@@ -35,3 +35,7 @@ https://www.youtube.com/watch?v=Y3u2groOG-A
 https://www.nngroup.com/articles/errors-forms-design-guidelines/?s=09
 
 https://tsh.io/blog/basics-of-microservices-pros-and-cons/
+
+https://www.youtube.com/watch?v=5IG4UmULyoA
+
+https://css-tricks.com/a-primer-on-the-different-types-of-browser-storage/
