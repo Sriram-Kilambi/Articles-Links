@@ -90,6 +90,10 @@ https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-o
 
 ## Others
 
+https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/
+
+https://medium.com/better-programming/3-react-component-patterns-every-beginner-to-intermediate-react-developers-need-to-know-f6e3155a74e3
+
 https://softwareengineeringdaily.com/2020/12/11/facebook-react-with-dan-abramov-repeat/
 
 https://medium.com/@moshe_31114/building-our-recycle-list-solution-in-react-17a21a9605a0?s=09
