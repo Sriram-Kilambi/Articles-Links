@@ -2,6 +2,8 @@ https://codewithhugo.com/setting-up-express-and-redis-with-docker-compose/
 
 https://phoenixnap.com/kb/docker-redis#ftoc-heading-1
 
+https://youtu.be/u-YWtdbpEhQ
+
 https://www.ionos.com/digitalguide/server/know-how/redis-in-docker-containers/
 
 https://www.tecmint.com/name-docker-containers/
