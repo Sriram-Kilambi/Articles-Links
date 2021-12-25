@@ -13,3 +13,7 @@ https://www.infoworld.com/article/3563829/jamstack-the-static-website-revolution
 https://docs.commercetools.com/docs
 
 https://www.youtube.com/watch?v=rFnfvhtrNbQ (Example Code like CCB 3.0)
+
+https://medium.com/@justintulk/passing-environment-variables-into-your-code-with-webpack-cab09d8974b0
+
+https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
