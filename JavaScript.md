@@ -26,6 +26,10 @@ https://github.com/getify/Functional-Light-JS
 
 https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/
 
+## Reduce Method
+
+https://medium.com/better-programming/reducer-in-javascript-a-simple-yet-powerful-array-method-108c74b4c888
+
 ## Async JavaScript
 
 https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/
