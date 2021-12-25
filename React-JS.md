@@ -42,6 +42,10 @@ https://hswolff.com/blog/level-up-usereducer-with-immer/
 
 https://hswolff.com/blog/how-to-usecontext-with-usereducer
 
+## useMemo Hook
+
+https://twitter.com/dan_abramov/status/1055689046117105664
+
 ## Suspense
 
 https://academind.com/learn/react/a-custom-suspense-component/
@@ -86,6 +90,10 @@ https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-o
 
 ## Others
 
+https://softwareengineeringdaily.com/2020/12/11/facebook-react-with-dan-abramov-repeat/
+
+https://medium.com/@moshe_31114/building-our-recycle-list-solution-in-react-17a21a9605a0?s=09
+
 https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html
 
 https://www.geeksforgeeks.org/difference-between-react-component-and-react-purecomponent/
@@ -107,6 +115,8 @@ https://dmitripavlutin.com/react-throttle-debounce/
 https://dev.to/cubejs/building-map-based-data-visualizations-with-mapbox-react-and-cube-js-4poo
 
 https://link.medium.com/LunE6N2Ugdb
+
+https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/
 
 ## Framer Motion
 
@@ -147,6 +157,8 @@ https://webpack.js.org/loaders/expose-loader/#using-configuration
 https://webpack.js.org/guides/shimming/
 
 https://www.youtube.com/watch?v=l7MEgaGPjFc
+
+https://css-tricks.com/how-to-load-fonts-in-a-way-that-fights-fout-and-makes-lighthouse-happy/
 
 ## Boilerplates
 
