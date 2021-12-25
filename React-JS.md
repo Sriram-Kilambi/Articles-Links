@@ -60,6 +60,10 @@ https://twitter.com/dan_abramov/status/1055689046117105664
 
 ## State Management
 
+https://www.youtube.com/watch?v=hG7v7quMMwM
+
+https://www.youtube.com/watch?v=poQXNp9ItL4
+
 https://blog.codota.com/redux-vs-mobx/?utm_content=138295037&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3236936
 
 https://redux.js.org/faq/react-redux#why-is-my-component-re-rendering-too-often
@@ -73,6 +77,8 @@ https://academind.com/learn/react/a-custom-suspense-component/
 https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d2b
 
 ## Testing React JS
+
+https://css-tricks.com/react-integration-testing-greater-coverage-fewer-tests/
 
 ### Unit & Integration Testing with JEST & Enzyme
 
@@ -119,6 +125,8 @@ https://github.com/facebook/react/issues/18178#issuecomment-595846312
 https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-on-an-unmounted-component
 
 ## Others
+
+https://twitter.com/dan_abramov/status/1255229440860262400?s=09
 
 https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx
 
