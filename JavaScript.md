@@ -86,6 +86,8 @@ https://blog.bitsrc.io/5-key-concepts-to-level-up-your-javascript-skills-6682a65
 
 https://youtu.be/6tpOsLAhhIA
 
+https://dmitripavlutin.com/object-is-vs-strict-equality-operator/
+
 ## Cheat sheets
 
 https://cheatography.com/davechild/cheat-sheets/javascript/
