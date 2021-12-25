@@ -14,6 +14,10 @@ https://reactjs.org/
 
 https://randycoulman.com/blog/2016/02/02/composing-routes-in-react-router/
 
+## Data Fetching
+
+https://blog.bitsrc.io/things-you-should-know-when-fetching-data-for-react-components-39d61602feda
+
 ## Hooks
 
 https://academind.com/learn/react/useeffect-abort-http-requests/
