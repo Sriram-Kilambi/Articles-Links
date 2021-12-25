@@ -6,6 +6,10 @@ https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-
 
 https://www.youtube.com/watch?v=FprWemtZEvk
 
+https://dev.to/saurabhdaware/but-what-the-hell-is-package-lock-json-b04
+
+https://levelup.gitconnected.com/javascript-clean-code-objects-and-classes-49eb5a30e242
+
 https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk/
 
 https://youtu.be/QNTeq4QdOsQ
