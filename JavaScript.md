@@ -40,6 +40,10 @@ https://www.youtube.com/watch?v=ZYb_ZU8LNxs
 
 https://www.youtube.com/watch?v=vKJpN5FAeF4
 
+## Destructuring
+
+https://www.youtube.com/watch?v=UgEaJBz3bjY
+
 ## Techniques
 
 https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
