@@ -39,3 +39,5 @@ https://tsh.io/blog/basics-of-microservices-pros-and-cons/
 https://www.youtube.com/watch?v=5IG4UmULyoA
 
 https://css-tricks.com/a-primer-on-the-different-types-of-browser-storage/
+
+https://www.youtube.com/watch?v=zQyrwxMPm88
