@@ -41,3 +41,13 @@ https://www.youtube.com/watch?v=5IG4UmULyoA
 https://css-tricks.com/a-primer-on-the-different-types-of-browser-storage/
 
 https://www.youtube.com/watch?v=zQyrwxMPm88
+
+https://www.decode.fr/
+
+https://owasp.org/www-project-top-ten/
+
+https://pragmaticwebsecurity.com/files/cheatsheets/reactxss.pdf
+
+https://www.npmjs.com/package/dompurify
+
+https://owasp.org/www-community/OWASP_Validation_Regex_Repository
