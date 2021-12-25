@@ -20,6 +20,8 @@ http://javascript.info/
 
 https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2
 
+https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+
 ## Functional Programming
 
 https://github.com/getify/Functional-Light-JS
