@@ -32,6 +32,8 @@ https://docs.commercetools.com/docs
 
 https://engineering.fb.com/web/facebook-redesign/
 
+https://youtu.be/UFc-RPbq8kg
+
 https://training.github.com/downloads/github-git-cheat-sheet.pdf
 
 https://betterprogramming.pub/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0
