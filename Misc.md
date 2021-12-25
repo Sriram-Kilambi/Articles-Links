@@ -1,5 +1,9 @@
 # Miscellaneous
 
+https://www.valentinog.com/blog/fake/
+
+https://www.freecodecamp.org/news/four-parts-of-frontend-development/
+
 https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 
 https://levelup.gitconnected.com/keep-calm-and-start-coding-how-to-fight-coding-anxiety-dee06efd8b9c
