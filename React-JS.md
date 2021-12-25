@@ -125,6 +125,12 @@ https://webpack.js.org/loaders/expose-loader/#using-configuration
 
 https://webpack.js.org/guides/shimming/
 
+https://www.youtube.com/watch?v=l7MEgaGPjFc
+
+## Boilerplates
+
+https://blog.logrocket.com/react-boilerplates-for-2021/
+
 ## Lodash
 
 https://stackoverflow.com/questions/35250500/correct-way-to-import-lodash
