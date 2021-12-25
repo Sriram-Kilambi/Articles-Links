@@ -62,6 +62,10 @@ https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d
 
 https://www.youtube.com/playlist?list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_
 
+### React Testing Library 
+
+https://blog.bitsrc.io/react-testing-library-the-modern-way-to-test-react-components-778ef578d0d9
+
 ### Hooks Testing
 
 https://www.youtube.com/watch?v=9lkZ77m-39I
