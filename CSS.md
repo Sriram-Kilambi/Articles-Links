@@ -33,3 +33,7 @@ https://kyleschaeffer.com/css-font-size-em-vs-px-vs-pt-vs-percent
 ## Cool examples
 
 https://twitter.com/asyrafhussin4/status/1351740905821069312
+
+## Others
+
+https://dev.to/kevinpowell/stop-making-responsive-websites-the-hard-way-kgb
