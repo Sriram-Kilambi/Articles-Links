@@ -4,6 +4,10 @@ https://insights.stackoverflow.com/survey/2020
 
 https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki
 
+https://www.youtube.com/watch?v=FprWemtZEvk
+
+https://github.blog/2020-04-09-from-48k-lines-of-code-to-10-the-story-of-githubs-javascript-sdk/
+
 https://youtu.be/QNTeq4QdOsQ
 
 https://www.valentinog.com/blog/fake/
