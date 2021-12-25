@@ -267,3 +267,7 @@ https://wiki.tizen.org/Tizen_Standalone_Emulator
 https://renative.org/docs/platform-tizen#requirements
 
 https://developer.tizen.org/ko/forums/web-application-development/could-not-find-target-launch.-please-check-target-connection.?langswitch=ko
+
+## GraphQL 
+
+https://www.freecodecamp.org/news/the-react-graphql-2020-crash-course/
