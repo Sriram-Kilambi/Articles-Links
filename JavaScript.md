@@ -72,6 +72,12 @@ https://blog.logrocket.com/javascript-concepts-before-learning-react/
 
 https://stackoverflow.com/questions/26020578/should-a-promise-reject-message-be-wrapped-in-error
 
+## Others
+
+https://blog.bitsrc.io/javascript-finally-has-support-for-native-private-fields-and-methods-d758fdcfd320
+
+https://blog.bitsrc.io/5-key-concepts-to-level-up-your-javascript-skills-6682a65cbf3d
+
 ## Cheat sheets
 
 https://cheatography.com/davechild/cheat-sheets/javascript/
