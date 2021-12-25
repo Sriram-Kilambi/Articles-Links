@@ -74,13 +74,21 @@ https://medium.com/swlh/recoil-another-react-state-management-library-97fc979a8d
 
 https://www.youtube.com/playlist?list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_
 
+https://medium.com/@acesmndr/testing-react-functional-components-with-hooks-using-enzyme-f732124d320a
+
 ### React Testing Library 
 
 https://blog.bitsrc.io/react-testing-library-the-modern-way-to-test-react-components-778ef578d0d9
 
+https://testing-library.com/docs/react-testing-library/intro
+
 ### Hooks Testing
 
 https://www.youtube.com/watch?v=9lkZ77m-39I
+
+### Suspense 
+
+https://blog.bitsrc.io/react-rendering-using-concurrent-mode-and-suspense-1600c574f996
 
 ### Three JS
 
@@ -109,6 +117,12 @@ https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-o
 ## Others
 
 https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx
+
+https://blogreact.com/react-conditional-rendering/
+
+https://blogreact.com/react-setup-webpack-babel-2020/
+
+https://www.freshercooker.in/internet-and-web-development-fundamentals-2/
 
 https://github.com/amarofashion/react-credit-cards
 
