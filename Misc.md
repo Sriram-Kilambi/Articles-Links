@@ -14,6 +14,10 @@ https://youtu.be/Gc0msPEmGjA
 
 https://youtu.be/L8CDt1J3DAw
 
+https://youtu.be/2PPSXonhIck
+
+https://codesandbox.io/s/43q86x20k7
+
 https://ionicframework.com/blog/introducing-ionic-4-ionic-for-everyone/
 
 https://www.sitepoint.com/lodash-features-replace-es6/
