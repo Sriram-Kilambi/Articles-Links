@@ -12,6 +12,8 @@ https://web.dev/
 
 ## Tutorial Websites
 
+https://github.com/trekhleb/javascript-algorithms
+
 https://www.w3schools.com/js/default.asp
 
 https://www.htmldog.com/guides/javascript/
