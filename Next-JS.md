@@ -16,6 +16,10 @@ https://medium.com/the-couch/adding-a-contact-form-to-your-next-js-app-7a1b5f63f
 
 https://medium.com/better-programming/how-to-set-up-next-js-with-tailwind-css-b93ccd2d4164
 
+## Commerce websites with Next JS
+
+https://blog.logrocket.com/next-js-commerce-an-overview-and-tutorial/
+
 ## SWR
 
 https://swr.vercel.app/
