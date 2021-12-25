@@ -23,3 +23,7 @@ https://stackoverflow.com/questions/63570597/typeerror-func-apply-is-not-a-funct
 https://codepen.io/Mamboleoo/pen/OJbRyOr
 
 https://www.youtube.com/watch?v=TOb1c39m64A
+
+https://link.medium.com/4dHevLp7Qcb
+
+https://medium.com/better-programming/an-extremely-easy-tip-to-improve-web-performance-with-async-await-b609e7e65744
