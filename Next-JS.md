@@ -40,6 +40,8 @@ https://blog.logrocket.com/theming-in-next-js-with-styled-components-and-usedark
 
 https://www.youtube.com/watch?v=PsDz3kpp354
 
+https://masteringnextjs.com/?s=09#course-overview
+
 ## Youtube Tutorials
 
 https://www.youtube.com/watch?v=VAEyelMtWp8
