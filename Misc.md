@@ -1,5 +1,7 @@
 # Miscellaneous
 
+https://insights.stackoverflow.com/survey/2020
+
 https://www.valentinog.com/blog/fake/
 
 https://www.freecodecamp.org/news/four-parts-of-frontend-development/
