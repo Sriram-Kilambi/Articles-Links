@@ -108,6 +108,12 @@ https://www.youtube.com/watch?v=Tn6-PIqc4UM
 
 https://twitter.com/dvnabbott/status/1305611387746410499?s=09
 
+https://itnext.io/3-small-tips-for-better-redux-performance-in-a-react-app-9cde549df6af
+
+https://levelup.gitconnected.com/refactoring-redux-into-react-hooks-6273647f9378
+
+https://sebastienlorber.com/records-and-tuples-for-react
+
 https://www.youtube.com/playlist?list=PLnQIVBzL8WX4aJtfFS4-QJedMpxKppUpY&mc_cid=9f777d1d71&mc_eid=1932adb0d8
 
 https://reactjs.org/static/bb4b10114882a50090b8ff61b3c4d0fd/31868/react_17_delegation.png
