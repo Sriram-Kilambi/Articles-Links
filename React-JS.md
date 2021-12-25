@@ -275,3 +275,5 @@ https://developer.tizen.org/ko/forums/web-application-development/could-not-find
 ## GraphQL 
 
 https://www.freecodecamp.org/news/the-react-graphql-2020-crash-course/
+
+https://youtu.be/0yr25jzVLMg
