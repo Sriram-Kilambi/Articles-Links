@@ -118,6 +118,14 @@ https://link.medium.com/LunE6N2Ugdb
 
 https://dmitripavlutin.com/7-architectural-attributes-of-a-reliable-react-component/
 
+https://www.youtube.com/watch?v=gnkrDse9QKc&amp;t=253s
+
+https://reactresources.com/articles
+
+https://overreacted.io/writing-resilient-components/?s=09
+
+https://blog.bitsrc.io/understanding-react-portals-ab79827732c7
+
 ## Framer Motion
 
 https://dev.to/joserfelix/page-transitions-in-react-1c8g
