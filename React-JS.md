@@ -20,6 +20,8 @@ https://www.youtube.com/watch?v=kYyaJyTLjpk
 
 https://github.com/react-hook-form/react-hook-form/tree/master/examples
 
+https://blog.bitsrc.io/react-hook-form-vs-formik-form-builder-library-for-react-23ed559fdae
+
 ## Data Fetching
 
 https://blog.bitsrc.io/things-you-should-know-when-fetching-data-for-react-components-39d61602feda
@@ -107,6 +109,8 @@ https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-o
 ## Others
 
 https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx
+
+https://github.com/amarofashion/react-credit-cards
 
 https://www.youtube.com/watch?v=Tn6-PIqc4UM
 
