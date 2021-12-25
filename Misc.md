@@ -2,9 +2,23 @@
 
 https://insights.stackoverflow.com/survey/2020
 
+https://medium.com/voobans-tech-stories/10-lodash-functions-everyone-should-know-334b372aec5d
+
+https://levelup.gitconnected.com/@janvidar
+
+https://youtu.be/ALRzs6ay7OU
+
+https://www.gitmemory.com/issue/gregnb/mui-datatables/953/534289311
+
 https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki
 
+https://medium.com/@pmzubar/why-json-parse-json-stringify-is-a-bad-practice-to-clone-an-object-in-javascript-b28ac5e36521
+
 https://www.youtube.com/watch?v=FprWemtZEvk
+
+https://www.smashingmagazine.com/2020/03/introduction-alpinejs-javascript-framework/
+
+https://www.educative.io/edpresso/what-is-functional-programming?https://www.educative.io/courses/grokking-the-object-oriented-design-interview?aid=5082902844932096&utm_source=google&utm_medium=cpc&utm_campaign=blog-dynamic&gclid=CjwKCAiA44LzBRB-EiwA-jJipGR_JphGXUUyHWnI0Vd289tS2s4Gv5LjCBOaDGGopzFWucMJEmZvXRoCg3QQAvD_BwE
 
 https://dev.to/saurabhdaware/but-what-the-hell-is-package-lock-json-b04
 
