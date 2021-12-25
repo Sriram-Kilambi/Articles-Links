@@ -32,6 +32,8 @@ https://www.ibrahima-ndaw.com/blog/data-fetching-in-nextjs-using-useswr/#fetchin
 
 https://dev.to/vvo/how-to-solve-window-is-not-defined-errors-in-react-and-next-js-5f97
 
+https://blog.logrocket.com/theming-in-next-js-with-styled-components-and-usedarkmode/
+
 ## Youtube Tutorials
 
 https://www.youtube.com/watch?v=VAEyelMtWp8
