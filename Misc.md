@@ -12,6 +12,8 @@ https://levelup.gitconnected.com/keep-calm-and-start-coding-how-to-fight-coding-
 
 https://www.dataschool.io/how-to-contribute-on-github/
 
+https://www.freshercooker.in/front-end-web-development-for-beginners-a-practical-guide/
+
 https://ultimatecourses.com/blog/deprecating-the-switch-statement-for-object-literals
 
 https://www.valentinog.com/blog/fake/
