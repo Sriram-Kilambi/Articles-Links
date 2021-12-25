@@ -42,6 +42,8 @@ https://www.nngroup.com/articles/errors-forms-design-guidelines/?s=09
 
 https://tsh.io/blog/basics-of-microservices-pros-and-cons/
 
+https://dev.to/raygun/common-front-end-mistakes-that-cause-layout-problems-8fo
+
 https://www.youtube.com/watch?v=5IG4UmULyoA
 
 https://flaviocopes.com/npm-packages-local-global/
