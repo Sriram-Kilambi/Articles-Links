@@ -168,6 +168,12 @@ https://www.youtube.com/watch?v=l7MEgaGPjFc
 
 https://css-tricks.com/how-to-load-fonts-in-a-way-that-fights-fout-and-makes-lighthouse-happy/
 
+https://twitter.com/0xca0a/status/1323246045434912769?s=20
+
+https://blog.bitsrc.io/best-practices-with-react-hooks-69d7e4af69a7
+
+https://www.telerik.com/blogs/five-questions-every-unit-test-must-answer-react-wednesdays-interview-eric-elliott
+
 ## Boilerplates
 
 https://blog.logrocket.com/react-boilerplates-for-2021/
