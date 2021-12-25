@@ -31,3 +31,5 @@ https://medium.com/better-programming/an-extremely-easy-tip-to-improve-web-perfo
 https://micro-frontends.org/
 
 https://www.youtube.com/watch?v=Y3u2groOG-A
+
+https://www.nngroup.com/articles/errors-forms-design-guidelines/?s=09
