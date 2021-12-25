@@ -18,6 +18,8 @@ https://www.htmldog.com/guides/javascript/
 
 http://javascript.info/
 
+https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2
+
 ## Functional Programming
 
 https://github.com/getify/Functional-Light-JS
@@ -84,3 +86,7 @@ https://www.mnot.net/cache_docs/
 ## OWASP
 
 https://owasp.org/www-community/OWASP_Application_Security_FAQ#How_do_I_ensure_that_sensitive_pages_are_not_cached_on_the_user.27s_browser.3F
+
+## Ecma Script
+
+https://tc39.es/ecma262/#sec-intro
