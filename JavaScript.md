@@ -52,6 +52,10 @@ https://blog.logrocket.com/javascript-concepts-before-learning-react/
 
 https://stackoverflow.com/questions/26020578/should-a-promise-reject-message-be-wrapped-in-error
 
+## Cheat sheets
+
+https://cheatography.com/davechild/cheat-sheets/javascript/
+
 ## Lodash
 
 https://www.blazemeter.com/blog/the-correct-way-to-import-lodash-libraries-a-benchmark/
