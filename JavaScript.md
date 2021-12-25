@@ -24,6 +24,8 @@ https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 
 ## Functional Programming
 
+https://www.youtube.com/watch?v=e-5obm1G_FY
+
 https://github.com/getify/Functional-Light-JS
 
 ## Callback Functions
