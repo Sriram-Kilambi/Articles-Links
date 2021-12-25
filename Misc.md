@@ -2,6 +2,10 @@
 
 https://insights.stackoverflow.com/survey/2020
 
+https://dev.to/uilicious/javascript-array-push-is-945x-faster-than-array-concat-1oki
+
+https://youtu.be/QNTeq4QdOsQ
+
 https://www.valentinog.com/blog/fake/
 
 https://www.freecodecamp.org/news/four-parts-of-frontend-development/
