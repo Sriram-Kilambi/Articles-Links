@@ -55,3 +55,7 @@ https://www.npmjs.com/package/dompurify
 https://owasp.org/www-community/OWASP_Validation_Regex_Repository
 
 https://youtu.be/I6ypD7qv3Z8
+
+https://flaviocopes.com/requestanimationframe/
+
+https://developers.google.com/web/resources/contributors/jakearchibald
