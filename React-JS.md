@@ -48,6 +48,12 @@ https://hswolff.com/blog/how-to-usecontext-with-usereducer
 
 https://twitter.com/dan_abramov/status/1055689046117105664
 
+## State Management
+
+https://blog.codota.com/redux-vs-mobx/?utm_content=138295037&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3236936
+
+https://redux.js.org/faq/react-redux#why-is-my-component-re-rendering-too-often
+
 ## Suspense
 
 https://academind.com/learn/react/a-custom-suspense-component/
@@ -151,6 +157,12 @@ https://reactresources.com/articles
 https://overreacted.io/writing-resilient-components/?s=09
 
 https://blog.bitsrc.io/understanding-react-portals-ab79827732c7
+
+https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
+
+https://kentcdodds.com/blog/?q=context
+
+https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4
 
 ## Framer Motion
 
