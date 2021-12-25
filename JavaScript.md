@@ -84,6 +84,8 @@ https://blog.bitsrc.io/javascript-finally-has-support-for-native-private-fields-
 
 https://blog.bitsrc.io/5-key-concepts-to-level-up-your-javascript-skills-6682a65cbf3d
 
+https://youtu.be/6tpOsLAhhIA
+
 ## Cheat sheets
 
 https://cheatography.com/davechild/cheat-sheets/javascript/
