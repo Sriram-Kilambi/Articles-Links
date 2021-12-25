@@ -120,3 +120,5 @@ https://owasp.org/www-community/OWASP_Application_Security_FAQ#How_do_I_ensure_t
 ## Ecma Script
 
 https://tc39.es/ecma262/#sec-intro
+
+https://m.youtube.com/watch?v=1OLiwuOeVUY
