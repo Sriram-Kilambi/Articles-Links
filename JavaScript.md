@@ -22,6 +22,8 @@ https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2
 
 https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 
+https://dev.to/courseprobe/9-javascript-books-to-learn-js-in-under-3-weeks-5fjg
+
 ## Functional Programming
 
 https://www.youtube.com/watch?v=e-5obm1G_FY
@@ -41,6 +43,8 @@ https://medium.com/better-programming/reducer-in-javascript-a-simple-yet-powerfu
 https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/
 
 https://www.taniarascia.com/promise-all-with-async-await/
+
+https://www.youtube.com/watch?v=HXQZfuSMTfM
 
 https://www.youtube.com/watch?v=ZYb_ZU8LNxs
 
