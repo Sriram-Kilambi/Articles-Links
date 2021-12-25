@@ -73,3 +73,12 @@ https://developers.google.com/web/resources/contributors/jakearchibald
 https://codesandbox.io/s/p5zf9
 
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/amp/
+
+```js
+Merge/flatten an array of arrays
+var car = { 'a': [{name :'maruti'}], 'b': [{name :'kia'}]}
+var bus ={ 'a':[{ name: 'volvo'}]}
+[].concat.apply([], [...Object.values(car).map(i=>i), ...Object.values(bus).map(i=>i)])
+
+// output (3) [{…}, {…}, {…}]
+```
