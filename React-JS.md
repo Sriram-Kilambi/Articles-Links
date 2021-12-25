@@ -90,6 +90,16 @@ https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-o
 
 ## Others
 
+https://reactjs.org/static/bb4b10114882a50090b8ff61b3c4d0fd/31868/react_17_delegation.png
+
+https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html
+
+https://www.vhudyma-blog.eu/top-mistakes-most-react-developers-make/
+
+https://github.com/brillout/awesome-react-components
+
+https://www.react-spring.io/docs/hooks/examples
+
 https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/
 
 https://medium.com/better-programming/3-react-component-patterns-every-beginner-to-intermediate-react-developers-need-to-know-f6e3155a74e3
