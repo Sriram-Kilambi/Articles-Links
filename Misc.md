@@ -33,3 +33,5 @@ https://micro-frontends.org/
 https://www.youtube.com/watch?v=Y3u2groOG-A
 
 https://www.nngroup.com/articles/errors-forms-design-guidelines/?s=09
+
+https://tsh.io/blog/basics-of-microservices-pros-and-cons/
