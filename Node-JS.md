@@ -90,6 +90,8 @@ https://stackoverflow.com/questions/24373298/log-a-request-with-bunyan
 
 https://linuxize.com/post/how-to-use-linux-screen/
 
+https://dev.to/shaikhshahid/a-guide-to-securing-node-js-applications-4bcc
+
 https://medium.com/gist-for-js/use-of-res-json-vs-res-send-vs-res-end-in-express-b50688c0cddf
 
 # mysql2 && Sequelize
