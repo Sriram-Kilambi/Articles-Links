@@ -4,6 +4,8 @@
 
 https://nextjs.org/
 
+https://nextjs.org/blog/next-10
+
 ## Authentication
 
 https://leerob.io/blog/nextjs-authentication
