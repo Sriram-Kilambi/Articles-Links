@@ -21,3 +21,5 @@ https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
 https://stackoverflow.com/questions/63570597/typeerror-func-apply-is-not-a-function
 
 https://codepen.io/Mamboleoo/pen/OJbRyOr
+
+https://www.youtube.com/watch?v=TOb1c39m64A
