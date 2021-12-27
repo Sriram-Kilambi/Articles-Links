@@ -74,6 +74,10 @@ https://blog.codota.com/redux-vs-mobx/?utm_content=138295037&utm_medium=social&u
 
 https://redux.js.org/faq/react-redux#why-is-my-component-re-rendering-too-often
 
+https://github.com/rt2zz/redux-persist#storage-engines
+
+https://medium.com/hackernoon/introducing-immer-immutability-the-easy-way-9d73d8f71cb3
+
 ## Suspense
 
 https://academind.com/learn/react/a-custom-suspense-component/
@@ -227,6 +231,8 @@ https://kentcdodds.com/blog/?q=context
 https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4
 
 https://dev.to/divyajyotiuk/credit-card-number-check-4cf8
+
+https://dev.to/selbekk/how-to-write-a-progressive-image-loading-hook-1jj2
 
 ## Framer Motion
 
