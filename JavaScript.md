@@ -82,6 +82,12 @@ https://stackoverflow.com/questions/26020578/should-a-promise-reject-message-be-
 
 ## Others
 
+https://medium.com/swlh/cookies-vs-localstorage-whats-the-difference-d99f0eb09b44
+
+https://www.youtube.com/results?search_query=%23100SecondsOfCode
+
+https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3
+
 https://blog.bitsrc.io/javascript-finally-has-support-for-native-private-fields-and-methods-d758fdcfd320
 
 https://blog.bitsrc.io/5-key-concepts-to-level-up-your-javascript-skills-6682a65cbf3d
