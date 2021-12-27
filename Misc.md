@@ -134,6 +134,8 @@ https://codesandbox.io/s/p5zf9
 
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/amp/
 
+https://www.youtube.com/user/leighhalliday/videos
+
 ```js
 Merge/flatten an array of arrays
 var car = { 'a': [{name :'maruti'}], 'b': [{name :'kia'}]}
