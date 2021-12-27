@@ -12,6 +12,10 @@ https://www.youtube.com/watch?v=I-yEpHSelpg
 
 https://youtu.be/Gc0msPEmGjA
 
+https://link.medium.com/1iPIkdUZW2
+
+https://www.barrymichaeldoyle.com/tag/best-practices/
+
 https://youtu.be/L8CDt1J3DAw
 
 https://youtu.be/2PPSXonhIck
@@ -132,9 +136,17 @@ https://developers.google.com/web/resources/contributors/jakearchibald
 
 https://codesandbox.io/s/p5zf9
 
+https://dev.to/fannyvieira/the-beauty-of-functional-programming-32ck
+
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/amp/
 
 https://www.youtube.com/user/leighhalliday/videos
+
+https://towardsdatascience.com/chrome-v8-version-8-0-v8-what-to-expect-11094d45411e
+
+https://towardsdatascience.com/8-console-api-functions-other-than-console-log-81cc6b7164b
+
+https://github.com/binhnguyennus/awesome-scalability
 
 ```js
 Merge/flatten an array of arrays
