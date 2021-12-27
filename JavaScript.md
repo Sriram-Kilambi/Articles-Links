@@ -30,6 +30,8 @@ https://dev.to/courseprobe/9-javascript-books-to-learn-js-in-under-3-weeks-5fjg
 
 https://www.youtube.com/watch?v=e-5obm1G_FY
 
+https://www.youtube.com/watch?v=dAPL7MQGjyM&ab_channel=HiteshChoudhary
+
 https://github.com/getify/Functional-Light-JS
 
 ## Callback Functions
@@ -98,6 +100,10 @@ https://www.youtube.com/watch?v=OvNIIgysD-s
 
 http://hackernoon.com/understanding-currying-closures-and-coupling-in-javascript-pg3x3y6z
 
+https://www.youtube.com/playlist?list=PLN3n1USn4xlnfJIQBa6bBjjiECnk6zL6s
+
+https://www.toptal.com/javascript/10-most-common-javascript-mistakes
+
 ## Cheat sheets
 
 https://cheatography.com/davechild/cheat-sheets/javascript/
@@ -132,3 +138,4 @@ https://owasp.org/www-community/OWASP_Application_Security_FAQ#How_do_I_ensure_t
 https://tc39.es/ecma262/#sec-intro
 
 https://m.youtube.com/watch?v=1OLiwuOeVUY
+
