@@ -150,6 +150,28 @@ https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx
 
 https://blogreact.com/react-conditional-rendering/
 
+https://blog.logrocket.com/patterns-for-data-fetching-in-react-981ced7e5c56/
+
+https://medium.com/@vraa/why-using-an-index-as-key-in-react-is-probably-a-bad-idea-7543de68b17c
+
+https://www.barrymichaeldoyle.com/fragment/
+
+https://overreacted.io/a-complete-guide-to-useeffect/
+
+https://www.youtube.com/watch?v=Law7wfdg_ls&ab_channel=DevEd
+
+https://dzone.com/articles/understanding-of-react-fiber-architecture
+
+https://blog.isquaredsoftware.com/2017/12/idiomatic-redux-using-reselect-selectors/
+
+https://link.medium.com/sge2PD0Ty2
+
+https://medium.com/@mfaircliff/optimise-your-large-formik-forms-in-create-react-app-b63a409700e2
+
+https://testing-library.com/docs/dom-testing-library/intro
+
+https://dev.to/azure/no-more-tears-handling-forms-in-react-using-formik-part-i-20kp
+
 https://youtu.be/5olfAXkDVnU
 
 https://reacttraining.com/blog/jsx-the-confusing-parts/
