@@ -45,3 +45,5 @@ https://twitter.com/asyrafhussin4/status/1351740905821069312
 https://dev.to/kevinpowell/stop-making-responsive-websites-the-hard-way-kgb
 
 https://www.youtube.com/watch?v=zUMAjJ88NJ0
+
+https://dev.to/xtrp/3-modern-css-features-in-2-minutes-1o2m
