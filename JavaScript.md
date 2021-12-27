@@ -12,6 +12,8 @@ https://web.dev/
 
 ## Tutorial Websites
 
+https://eloquentjavascript.net/
+
 https://github.com/trekhleb/javascript-algorithms
 
 https://www.w3schools.com/js/default.asp
@@ -109,6 +111,8 @@ http://hackernoon.com/understanding-currying-closures-and-coupling-in-javascript
 https://www.youtube.com/playlist?list=PLN3n1USn4xlnfJIQBa6bBjjiECnk6zL6s
 
 https://www.toptal.com/javascript/10-most-common-javascript-mistakes
+
+https://www.samanthaming.com/tidbits/79-module-cheatsheet/
 
 ## Cheat sheets
 
