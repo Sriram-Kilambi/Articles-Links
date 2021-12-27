@@ -138,6 +138,8 @@ https://stackoverflow.com/questions/53949393/cant-perform-a-react-state-update-o
 
 ## Others
 
+https://www.youtube.com/watch?v=BcVAq3YFiuc
+
 https://coursevania.com/complete-react-developer-in-2020-redux-hooks-graphql/
 
 https://twitter.com/dan_abramov/status/1255229440860262400?s=09
