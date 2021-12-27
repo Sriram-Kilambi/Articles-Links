@@ -98,6 +98,8 @@ https://www.youtube.com/playlist?list=PL-Db3tEF6pB8Am-IhCRgyGSxTalkDpUV_
 
 https://medium.com/@acesmndr/testing-react-functional-components-with-hooks-using-enzyme-f732124d320a
 
+https://www.youtube.com/watch?v=0GypdsJulKE
+
 ### React Testing Library 
 
 https://blog.bitsrc.io/react-testing-library-the-modern-way-to-test-react-components-778ef578d0d9
@@ -148,6 +150,10 @@ https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx
 
 https://blogreact.com/react-conditional-rendering/
 
+https://youtu.be/5olfAXkDVnU
+
+https://reacttraining.com/blog/jsx-the-confusing-parts/
+
 https://github.com/devhubapp/devhub/blob/master/packages/components/src/hooks/use-why-did-you-update.ts
 
 https://blogreact.com/reusable-components-in-react/
@@ -181,6 +187,8 @@ https://www.vhudyma-blog.eu/top-mistakes-most-react-developers-make/
 https://github.com/brillout/awesome-react-components
 
 https://www.react-spring.io/docs/hooks/examples
+
+https://itnext.io/why-concept-of-immutability-is-so-damn-important-for-a-beginner-front-end-developer-8da85b565c8e
 
 https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/
 
