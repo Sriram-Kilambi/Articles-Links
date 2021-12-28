@@ -1,5 +1,23 @@
 # Miscellaneous
 
+https://blog.asayer.io/the-ultimate-guide-to-fixing-javascript-performance-problems-in-browser-devtools
+
+https://www.freecodecamp.org/news/javascript-execution-context-and-hoisting/
+
+https://www.freecodecamp.org/news/learn-css-media-queries-by-building-projects/
+
+https://javascript.plainenglish.io/how-web-developers-can-build-an-effective-portfolio-aed719927589
+
+https://hyperlog.io/blog/good-portfolio-site
+
+https://itnext.io/stop-installing-db-locally-use-docker-for-local-development-for-mongodb-or-postgresql-ff560893f38e
+
+https://itnext.io/simple-tips-for-writing-clean-react-components-c3facbf6680e
+
+https://dev.to/arnelenero/can-react-state-management-get-any-simpler-than-this-2o90
+
+https://linuxize.com/post/how-to-rename-local-and-remote-git-branch/
+
 https://insights.stackoverflow.com/survey/2020
 
 https://medium.com/voobans-tech-stories/10-lodash-functions-everyone-should-know-334b372aec5d
@@ -136,17 +154,132 @@ https://developers.google.com/web/resources/contributors/jakearchibald
 
 https://codesandbox.io/s/p5zf9
 
+https://www.freecodecamp.org/news/build-a-multi-step-registration-app-with-animated-transitions-using-mern-stack/
+
+https://yourstory.com/2021/03/fintech-startup-splitsub-digital-subscription-sharing
+
+https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/?trk=gs_card
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat
+
+https://www.tiny.cloud/auth/signup
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04
+
+https://codepen.io/nirajmchauhan/pen/EjQLpV
+
+https://www.tiny.cloud/docs/demo/tinydrive/
+
+https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q
+
+https://docs.mongodb.com/manual/
+
+https://www.florin-pop.com/blog/2019/04/how-to-create-a-timeline-with-react/
+
+https://www.executeprogram.com/courses/typescript?s=09
+
+https://stackoverflow.com/questions/32553158/detect-click-outside-react-component?answertab=votes#tab-top
+
+https://chakra-ui.com/
+
+https://css-tricks.com/a-super-flexible-css-carousel-enhanced-with-javascript-navigation/
+
+https://blog.logrocket.com/dexie-js-indexeddb-react-apps-offline-data-storage/
+
+https://idratherbewriting.com/learnapidoc/pubapis_swagger.html
+
+https://dev.to/stackfindover/how-to-move-background-image-on-scroll-59ng
+
+https://github.com/text-mask/text-mask/issues/406
+
+https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript
+
+https://hackr.io/blog/javascript-interview-questions
+
+https://codepen.io/Mamboleoo/pen/OJbRyOr
+
 https://dev.to/fannyvieira/the-beauty-of-functional-programming-32ck
 
 https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/amp/
 
 https://www.youtube.com/user/leighhalliday/videos
 
+https://nextjs.org/conf/schedule
+
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+https://www.techynovice.com/setting-up-JWT-token-refresh-mechanism-with-axios/
+
+https://www.coursera.org/professional-certificates/google-it-automation?action=enroll&authMode=signup&isNewUser=true
+
+https://froala.com/wysiwyg-editor/
+
+https://github.com/nguymin4/react-videocall
+
+https://alphacoder.xyz/nodejs-unhandled-promise-rejection-warning/#:~:text=If%20we%20fail%20to%20handle,shown%20the%20UnhandledPromiseRejectionWarning%20by%20Node.&text=If%20you%20didn't%20already,non%2Dzero%20exit%20code%E2%80%9D
+
+https://github.com/immerjs/immer/issues/339
+
+https://youtu.be/75W8UPQ5l7k
+
+https://github.com/tc39/proposal-record-tuple
+
+https://www.angularminds.com/blog/article/best-mobile-app-development-frameworks-2020.html
+
+https://shieldfy.io/blog/best-node-js-databases-guide/
+
+https://www.youtube.com/playlist?list=PLYSZyzpwBEWSQsrukurP09ksi49H9Yj40
+
+https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
+
+https://medium.com/swlh/javascript-best-practices-useless-catch-concatenation-escape-return-and-more-23647648a3ea?source=bookmarks---------29------------------
+
+https://medium.com/better-programming/recoil-js-the-new-better-state-management-library-for-react-1095947b5191?source=bookmarks---------14------------------
+
+https://medium.com/swlh/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66?source=bookmarks---------13------------------
+
+https://medium.com/javascript-in-plain-english/ssr-with-next-js-styled-components-and-material-ui-b1e88ac11dfa?source=bookmarks---------10------------------
+
+https://medium.com/javascript-in-plain-english/handling-api-calls-using-async-await-in-useeffect-hook-990fb4ae423?source=bookmarks---------1------------------
+
+https://nextjs.org/case-studies/hulu
+
+https://ovvwzkzry9.codesandbox.io/
+
+https://github.com/bradtraversy/design-resources-for-developers
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-18-04
+
 https://towardsdatascience.com/chrome-v8-version-8-0-v8-what-to-expect-11094d45411e
 
 https://towardsdatascience.com/8-console-api-functions-other-than-console-log-81cc6b7164b
 
 https://github.com/binhnguyennus/awesome-scalability
+
+https://www.eproductkeys.com/
+
+-------------------------------
+
+echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+
+cat /proc/sys/fs/inotify/max_user_watches
+fs.inotify.max_user_watches=524288
+
+-------------------------------
+
+wget https://www.ipvanish.com/software/configs/configs.zip
+
+sudo apt-get install -y network-manager-openvpn network-manager-openvpn-gnome
+
+-------------------------------
+
+```js
+let arr = [1, 2, 3, 4, 5];
+delete arr[0];
+
+console.log(arr);
+console.log(arr.length);
+```
 
 ```js
 Merge/flatten an array of arrays
