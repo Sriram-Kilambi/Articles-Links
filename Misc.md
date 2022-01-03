@@ -1,5 +1,35 @@
 # Miscellaneous
 
+https://medium.com/js-dojo/4-ajax-patterns-for-vue-js-apps-add915fc9168
+
+https://code.tutsplus.com/tutorials/design-patterns-for-communication-between-vuejs-component--cms-32354
+
+https://www.vuemastery.com/conferences/vueconf-us-2018/7-secret-patterns-vue-consultants-dont-want-you-to-know-chris-fritz/
+
+https://learn-vuejs.github.io/vue-patterns/
+
+https://www.youtube.com/watch?v=c0oy0vQKEZE
+
+https://www.youtube.com/watch?v=xa-_FIy2NgE
+
+https://summit.graphql.com/
+
+https://github.com/codetok/cdk-admin
+
+https://www.npmjs.com/package/angular-d3-charts
+
+https://golangbot.com/learn-golang-series/
+
+https://tutorialedge.net/course/golang/
+
+https://openbase.com/
+
+https://techcrunch.com/2021/12/02/aws-launches-amplify-studio-a-new-low-code-app-development-tool/?tpcc=tcplusfacebook&fbclid=IwAR1qr4HfiaIoGfIWspwaMQZFsRruTjZ5Jtn7y-UKF_dZmfTWn_ReIRqrFYA
+
+https://www.youtube.com/watch?v=pnv5iKB2hl4
+
+https://blitzjs.com/
+
 https://github.com/okta/okta-react/issues/65
 
 https://www.npmjs.com/package/@okta/okta-auth-js#migrating-from-previous-versions
